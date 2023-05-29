@@ -1,0 +1,261 @@
+.background-color {
+    background-color: #00974A;
+    width: 100%;
+}
+
+#bg-color {
+    /* background-color: aliceblue; */
+    width: 100%;    
+    background: rgba(198, 255, 226, 0.4);
+
+}
+.login-btn{
+    margin: 5px 5px;
+    background-color: #FF0000;
+    border-radius: 5px;
+    padding: 8px 35px;
+    color: #F2FFF8;
+}
+.header-section{
+    padding: 10px 0;
+}
+.header-menu{
+    margin-top: 10px;
+}
+.nav-bg-color{
+    background: #EAFFF4;
+    box-shadow: 0px 18px 30px -12px rgba(28, 26, 26, 0.15);
+}
+.footer-color {
+    background-color: #F2FFF8;
+    width: 100%;
+    padding: 30px 0;
+}
+
+.txt-color {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #004522;
+}
+
+#txt-color1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 27px;
+    color: #004522;
+
+}
+
+.txt-color2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #004522;
+}
+
+.txt-color3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #004522;
+}
+
+.txt-color4 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #032614;
+}
+
+.txt-color5 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #032614;
+}
+
+.txt-color6 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #00974A;
+}
+
+.curved-button {
+    border-radius: 77px;
+    /* Adjust the value to change the level of curvature */
+    padding: 10px 20px;
+    background-color: #00974A;
+    border: none;
+    cursor: pointer;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.header-color {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: #3C241E;
+}
+
+.txt-color7 {
+font-family: 'Helvetica Light';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+color: #3C241E;
+}
+.curved-button2{
+    border-radius: 77px;
+    /* Adjust the value to change the level of curvature */
+    padding: 5px 20px;
+    background-color: #00974A;
+    border: none;
+    cursor: pointer;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.contact-section .form-container{
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    padding: 0;
+    margin: 0;
+}
+
+.form-container{
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 70%;
+    height: 70%;
+    border-radius: 5px;
+}
+.form-container2{
+    margin-left: 125px;
+}
+.form-container .form-group {
+    margin-bottom: 40px;
+}
+.form-container input[type="text"],
+.form-container input[type="email"],
+.form-container input[type="password"],
+.form-container textarea {
+    background: #F2F2F2;
+}
+
+.form-container label{
+    font-weight: bold;
+}
+
+.form-button{
+    margin-left: 124px;
+    padding: 5px 50px;
+    background: #00974A;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+.header-color2{
+    /* Facebook Page & Facebook Group */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #004522;
+}
+
+/* #txt-size{
+    font-size:smaller;
+    width: 70%;
+} */
+
+/* .btn-size{
+     /* Send 
+    padding: 4px 20px;
+    width: 30%;
+    background: #00974A;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    color: #FFFFFF;
+} */
+     /* line-height: 21px; */
+    /* display: flex;
+    align-items: center; */
+
+
+   /* Rectangle 97 */
+    /* background: #00974A;
+    border-radius: 5px;
+    /*font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+ */
+.header-color3{
+/* Contact Info */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+letter-spacing: 0.2em;
+color: #000000;
+margin: 30px 5px;
+}
+
+.header-color4{
+    /* Stay Social */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+color: #004522;
+margin-top: 80px;
+}
+.icon-size{
+    margin: 30px 10px;
+}
